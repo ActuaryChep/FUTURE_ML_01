@@ -1,4 +1,4 @@
- This project demonstrates how to use an ARIMA (AutoRegressive Integrated Moving Average) model to forecast monthly retail sales from historical transaction data. It is ideal for data science and analytics portfolios targeting roles in business intelligence, forecasting, and retail analytics.
+ This project demonstrates how to use ARIMA,XGBoost and  model to forecast monthly retail sales from historical transaction data. It is ideal for data science and analytics portfolios targeting roles in business intelligence, forecasting, and retail analytics.
  
  Project Objective
  
