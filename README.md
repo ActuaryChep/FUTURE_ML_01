@@ -1,4 +1,4 @@
- This project demonstrates how to use ARIMA,XGBoost and  model to forecast monthly retail sales from historical transaction data. It is ideal for data science and analytics portfolios targeting roles in business intelligence, forecasting, and retail analytics.
+ This project demonstrates how to use ARIMA,XGBoost and Prophet models to forecast monthly retail sales from historical transaction data. It is ideal for data science and analytics portfolios targeting roles in business intelligence, forecasting, and retail analytics.
  
  Project Objective
  
@@ -20,14 +20,13 @@ Use all but the last 6 months for training
 
 Reserve the last 6 months for testing
 
-3. ARIMA Modeling
-
-Fit an ARIMA(1,1,1) model
+3. Feature engineering and Modeling
+Engineer the features.
 
 Forecast the next 6 months
 
 4.	Evaluation
 	
-Measure accuracy using RMSE (Root Mean Squared Error)
+Measure accuracy of the models
 
 Visualize actual vs forecasted sales
